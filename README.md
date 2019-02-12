@@ -1,1 +1,3 @@
-# projetos_java
+# projetos_java_jsp
+
+projeto utilizando JSP.
